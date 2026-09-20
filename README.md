@@ -8,10 +8,6 @@ DevSpace allows users to explore developer articles, search and filter content b
 
 https://merin-devspace.vercel.app/
 
-##  GitHub Repository
-
-[View Source Code](YOUR_GITHUB_REPO_URL)
-
 ---
 
 ##  Features
